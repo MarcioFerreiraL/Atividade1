@@ -1,0 +1,7 @@
+1. Defina o que é uma variável na programação. 
+
+Variavel é algo que pode sofrer alterações ao decorrer do codigo
+
+2. Escreva com as suas palavras a diferença entre variável e constante e como elas podem ser aplicadas na prática. 
+
+Enquanto a variavel pode sofrer alterações e ser flexivel, a constante não pode sofrer alterações ao longo do codigo
